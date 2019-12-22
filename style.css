@@ -1,0 +1,70 @@
+
+.navbar{
+	font-family: 'Sacramento', cursive;
+}
+
+.justify-content-end{
+	background-color: #8ABD5F;
+	font-family: 'Permanent Marker', cursive;
+	color:white;
+	font-size:100%;
+	font-weight:100%;
+}
+
+.stuff{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.stuff >div
+{
+	margin:100px;
+}
+
+.stuff2{
+	display: flex;
+	flex-wrap: wrap;
+}
+.stuff2 >div
+{
+	margin: 100px;
+}
+
+.footer {
+  background-color: #8ABD5F;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Permanent Marker', cursive;
+  color:white;
+}
+
+.footer1 {
+  background-color: #8ABD5F;
+  text-align: center;
+  padding: 10px;
+  color:white;
+}
+
+.card
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.contact
+{
+  margin: 50px 50px 50px 50px;
+  margin-left: 
+}
+
+.form-control
+{
+
+   background-color:#8ABD5F; 
+   color:white;
+
+}
+
+.sumn{
+	font-size: 100%;
+}
